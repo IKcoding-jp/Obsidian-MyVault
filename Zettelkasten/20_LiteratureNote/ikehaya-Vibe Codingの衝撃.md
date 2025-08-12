@@ -1,12 +1,25 @@
 ---
 kindle-sync:
-  bookId: '49527'
+  bookId: '63975'
   title: Vibe Codingの衝撃
   author: ikehaya
-  asin: B0FCRGRL33
-  lastAnnotatedDate: '2025-07-25'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/61t-ON1lL3L._SY160.jpg'
-  highlightsCount: 2
+  asin: B0CL8TPQJD
+  lastAnnotatedDate: '2025-06-17'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/718Awn8Js0L._SY160.jpg'
+  highlightsCount: 82
+tags:
+  - #VibeCoding
+  - #衝撃
+  - #プログラミング
+  - #AI活用
+  - #コーディング
+  - #開発技術
+  - #技術革新
+  - #AI開発
+  - #技術習得
+  - #プログラミング入門
+  - #AIコーディング
+  - #開発効率
 ---
 # Vibe Codingの衝撃
 ## Metadata

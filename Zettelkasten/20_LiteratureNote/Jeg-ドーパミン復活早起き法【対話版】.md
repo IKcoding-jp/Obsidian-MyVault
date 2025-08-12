@@ -1,12 +1,25 @@
 ---
 kindle-sync:
-  bookId: '17775'
-  title: 'ドーパミン復活早起き法【対話版】: 「最高の目覚めと深い睡眠」「最高の気分と活力」を手に入れる最短ルート案内'
+  bookId: '63982'
+  title: ドーパミン復活早起き法【対話版】
   author: Jeg
-  asin: B0C8SNYMMP
-  lastAnnotatedDate: '2025-06-08'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81t7vpIG0FL._SY160.jpg'
-  highlightsCount: 29
+  asin: B0CL8TPQJD
+  lastAnnotatedDate: '2025-06-17'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/718Awn8Js0L._SY160.jpg'
+  highlightsCount: 82
+tags:
+  - #ドーパミン
+  - #早起き
+  - #復活
+  - #朝の習慣
+  - #生活改善
+  - #習慣形成
+  - #朝活
+  - #生活リズム
+  - #朝の時間
+  - #習慣化
+  - #生活改善
+  - #朝のルーティン
 ---
 # ドーパミン復活早起き法【対話版】
 ## Metadata
@@ -103,3 +116,21 @@ kindle-sync:
 11．まとめ — location: [1035](kindle://book?action=open&asin=B0C8SNYMMP&location=1035) ^ref-6071
 
 ---
+
+## 関連ノート
+
+### パーマネントノート
+- [[実践的統合アプローチ]] - 朝の習慣ルーティンの実践方法
+- [[文献ノート相関マップ]] - ドーパミン関連文献の相関分析
+- [[文献ノート総合分析]] - ドーパミン研究の総合分析
+
+### 関連文献ノート（ドーパミン・禁欲系）
+- [[アンナ・レンブケ、恩蔵絢子-ドーパミン中毒（新潮新書）]] - ドーパミン中毒の科学
+- [[Jeg-Dopamine Resurrection Abstinence Act]] - ドーパミン復活禁欲法
+- [[善一-ポルノ脳]] - ポルノ脳の影響
+- [[こうた、しんせい出版-物語でさっくりわかる ポルノ脳【ドーパミン】【オナ禁】]] - ポルノ脳の物語的解説
+
+### 関連文献ノート（習慣・継続系）
+- [[井上新八-「やりたいこと」も「やるべきこと」も全部できる！ 続ける思考]] - 継続思考
+- [[戸田大介-200万人の「挫折」と「成功」のデータからわかった 継続する技術]] - 継続技術
+- [[雅之-習慣が10割]] - 習慣形成

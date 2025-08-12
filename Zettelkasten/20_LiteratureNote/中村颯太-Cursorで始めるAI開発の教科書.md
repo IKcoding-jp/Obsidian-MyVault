@@ -1,12 +1,25 @@
 ---
 kindle-sync:
-  bookId: '61542'
-  title: 'Cursorで始めるAI開発の教科書: 誰でもできる実例付きガイド 生成AI'
+  bookId: '63972'
+  title: Cursorで始めるAI開発の教科書
   author: 中村颯太
-  asin: B0FFMYRPSF
-  lastAnnotatedDate: '2025-07-17'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81K02f9xO1L._SY160.jpg'
-  highlightsCount: 6
+  asin: B0CL8TPQJD
+  lastAnnotatedDate: '2025-06-17'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/718Awn8Js0L._SY160.jpg'
+  highlightsCount: 82
+tags:
+  - #Cursor
+  - #AI開発
+  - #プログラミング
+  - #開発環境
+  - #AI活用
+  - #技術習得
+  - #開発ツール
+  - #AIコーディング
+  - #プログラミング入門
+  - #開発効率
+  - #技術革新
+  - #AI開発環境
 ---
 # Cursorで始めるAI開発の教科書
 ## Metadata

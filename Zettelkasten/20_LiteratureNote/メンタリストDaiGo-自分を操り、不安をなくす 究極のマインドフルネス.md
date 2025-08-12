@@ -1,12 +1,25 @@
 ---
 kindle-sync:
-  bookId: '56367'
+  bookId: '63979'
   title: 自分を操り、不安をなくす 究極のマインドフルネス
   author: メンタリストDaiGo
-  asin: B08D94RBN6
-  lastAnnotatedDate: '2025-06-26'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81jhnyNtCbL._SY160.jpg'
-  highlightsCount: 6
+  asin: B0CL8TPQJD
+  lastAnnotatedDate: '2025-06-17'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/718Awn8Js0L._SY160.jpg'
+  highlightsCount: 82
+tags:
+  - #マインドフルネス
+  - #不安解消
+  - #自己コントロール
+  - #メンタルヘルス
+  - #瞑想
+  - #心の安定
+  - #ストレス管理
+  - #自己管理
+  - #心理技術
+  - #心の健康
+  - #精神安定
+  - #自己操縦
 ---
 # 自分を操り、不安をなくす 究極のマインドフルネス
 ## Metadata

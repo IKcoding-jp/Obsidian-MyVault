@@ -1,14 +1,25 @@
 ---
 kindle-sync:
-  bookId: '6843'
-  title: >-
-    Dopamine Resurrection Abstinence Act (Dialogue Version): A Guide to Release
-    Your Pornography Brain and Forbid Ona That Changes Your Life Just By Reading
+  bookId: '63983'
+  title: Dopamine Resurrection Abstinence Act
   author: Jeg
-  asin: B0BGKFFN3W
-  lastAnnotatedDate: '2025-06-11'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81IZXsuLkeL._SY160.jpg'
-  highlightsCount: 10
+  asin: B0CL8TPQJD
+  lastAnnotatedDate: '2025-06-17'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/718Awn8Js0L._SY160.jpg'
+  highlightsCount: 82
+tags:
+  - #ドーパミン
+  - #禁欲
+  - #復活
+  - #Abstinence
+  - #自己管理
+  - #意志力
+  - #習慣改善
+  - #自己制御
+  - #生活改善
+  - #禁欲法
+  - #自己鍛錬
+  - #生活改善
 ---
 # Dopamine Resurrection Abstinence Act
 ## Metadata
@@ -48,3 +59,27 @@ kindle-sync:
 ムラムラを楽しめ！」 — location: [842](kindle://book?action=open&asin=B0BGKFFN3W&location=842) ^ref-7546
 
 ---
+
+## 関連ノート
+
+### パーマネントノート
+- [[実践的統合アプローチ]] - 禁欲と自己管理の実践方法
+- [[文献ノート相関マップ]] - 禁欲関連文献の相関分析
+- [[文献ノート総合分析]] - 禁欲研究の総合分析
+
+### 関連文献ノート（ドーパミン・禁欲系）
+- [[アンナ・レンブケ、恩蔵絢子-ドーパミン中毒（新潮新書）]] - ドーパミン中毒の科学
+- [[Jeg-ドーパミン復活早起き法【対話版】]] - ドーパミン復活法
+- [[善一-ポルノ脳]] - ポルノ脳の影響
+- [[こうた、しんせい出版-物語でさっくりわかる ポルノ脳【ドーパミン】【オナ禁】]] - ポルノ脳の物語的解説
+- [[うつつびと-NO MORE FAP オナ禁講座 30日継続プログラム]] - オナ禁継続プログラム
+- [[かがみ-解禁！AI時代の「真・オナ禁術」]] - AI時代のオナ禁術
+- [[Yoshi-うつ病を治した禁欲の魔法オナ禁エリクサー]] - うつ病と禁欲
+- [[俊雄-ポルノ自慰の恐怖『依存の治療 回復方法』]] - 依存治療
+- [[健志-ボクがエロビデオを捨てた日]] - 体験談
+- [[LowSow【オナ禁界の神】-異性・お金・仕事、人生の全てからモテる！オナ禁界の神が贈る最強の『モテる人生戦略』]] - モテる人生戦略
+
+### 関連文献ノート（習慣・継続系）
+- [[井上新八-「やりたいこと」も「やるべきこと」も全部できる！ 続ける思考]] - 継続思考
+- [[戸田大介-200万人の「挫折」と「成功」のデータからわかった 継続する技術]] - 継続技術
+- [[雅之-習慣が10割]] - 習慣形成

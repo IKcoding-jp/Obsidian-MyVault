@@ -1,12 +1,25 @@
 ---
 kindle-sync:
-  bookId: '38545'
-  title: 'この通り進めば必ず叶う 願望実現への最短ルート案内: 溢れるネット情報に翻弄されないただ１つの確かな道筋'
+  bookId: '63977'
+  title: この通り進めば必ず叶う 願望実現への最短ルート案内
   author: Jeg
-  asin: B0BJTX5DW2
-  lastAnnotatedDate: '2025-06-12'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/719RVSy+EhL._SY160.jpg'
-  highlightsCount: 18
+  asin: B0CL8TPQJD
+  lastAnnotatedDate: '2025-06-17'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/718Awn8Js0L._SY160.jpg'
+  highlightsCount: 82
+tags:
+  - #願望実現
+  - #最短ルート
+  - #目標達成
+  - #自己実現
+  - #ポジティブ思考
+  - #エネルギー投下
+  - #願望
+  - #実現方法
+  - #成功法則
+  - #人生設計
+  - #目標設定
+  - #実現戦略
 ---
 # この通り進めば必ず叶う 願望実現への最短ルート案内
 ## Metadata

@@ -1,12 +1,25 @@
 ---
 kindle-sync:
-  bookId: '42465'
+  bookId: '63968'
   title: LOVE理論
   author: 水野敬也
-  asin: B00IR2L59I
-  lastAnnotatedDate: '2025-05-25'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/71ANnEzfT6L._SY160.jpg'
-  highlightsCount: 16
+  asin: B0CL8TPQJD
+  lastAnnotatedDate: '2025-06-17'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/718Awn8Js0L._SY160.jpg'
+  highlightsCount: 82
+tags:
+  - #LOVE理論
+  - #人間関係
+  - #愛
+  - #関係性
+  - #理論
+  - #対人関係
+  - #コミュニケーション
+  - #関係構築
+  - #愛の理論
+  - #人間関係論
+  - #理論的アプローチ
+  - #関係性理論
 ---
 # LOVE理論
 ## Metadata
