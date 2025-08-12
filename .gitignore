@@ -1,0 +1,23 @@
+# Obsidian設定ファイル
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/plugins/
+.obsidian/themes/
+
+# 一時ファイル
+.trash/
+.DS_Store
+Thumbs.db
+
+# 履歴ファイル
+.history/
+
+# ログファイル
+*.log
+
+# バックアップファイル
+*.bak
+*.backup
